@@ -1,4 +1,4 @@
-*.class
+x*.class
 bin/
 .vscode/
 .settings/
