@@ -1,8 +1,8 @@
-# ITINERIS - Comparateur d'Itinéraires (Pattern Strategy)
+# ITINERIS - Comparateur d'Itinéraires 
 
 Ce projet est une application Java permettant de calculer la distance et la durée de trajets entre deux villes en utilisant l'API **OpenRouteService**. 
 
-## 🇫🇷 Documentation du Projet (Français)
+## 🇫🇷 Documentation du Projet (english bellow)
 
 ### Fonctionnalités Clés
 * **Calcul de trajet réel** : Intégration de l'API OpenRouteService pour des données précises.
@@ -17,7 +17,7 @@ Par mesure de sécurité, la clé API n'est pas incluse dans le dépôt. Pour la
 
 ---
 
-## 🇺🇸 Project Documentation (English)
+## 🇺🇸 Project Documentation 
 
 ### Key Features
 * **Real Route Calculation**: Integration with OpenRouteService API for accurate travel data.
