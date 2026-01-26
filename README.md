@@ -2,7 +2,7 @@
 
 Ce projet est une application Java permettant de calculer la distance et la durée de trajets entre deux villes en utilisant l'API **OpenRouteService**. 
 
-## 🇫🇷 Documentation du Projet (english bellow)
+## 🇫🇷 Documentation du Projet (english below)
 
 ### Fonctionnalités Clés
 * **Calcul de trajet réel** : Intégration de l'API OpenRouteService.
