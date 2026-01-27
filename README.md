@@ -19,7 +19,7 @@ Par mesure de sécurité, la clé API n'est pas incluse dans le dépôt. Pour la
 
 ---
 
-## *FR* Project Documentation 
+## *ENG* Project Documentation 
 
 ### Key Features
 * **Real Route Calculation**: Integration with OpenRouteService API.
